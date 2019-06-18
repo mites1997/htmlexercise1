@@ -1,0 +1,18 @@
+div{
+/*text-align: center;*/
+border-color: #FFFFFF;
+width: 500px;
+margin: auto;
+}
+body{
+    background-color: silver;
+    /*padding-right: 40%;*/
+    
+
+
+}
+blockquote{
+    border-style: inset;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
